@@ -9,4 +9,3 @@ if (!isset($_SESSION['usuario'])) {
 <h1>Painel</h1>
 <p>Olá, <?= $_SESSION['usuario']['nome'] ?> (<?= $_SESSION['usuario']['email'] ?>)</p>
 <a href="logout.php">Sair</a> | <a href="index.php">Voltar</a>
-<a href="index.php">Voltar</a>

@@ -5,4 +5,5 @@
         (<a href="aula-13-10/classe02.php">classe02</a>, <a href="aula-13-10/classe03.php">classe03</a>)</li>
     <li><a href="aula-20-10/">Aula 20/10</a> - Interface, sessão, login e carrinho
         (<a href="aula-20-10/classe04.php">classe04</a>)</li>
+    <li><a href="aula-27-10/">Aula 27/10</a> - Conexão com PDO</li>
 </ul>
